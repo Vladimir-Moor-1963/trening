@@ -15,7 +15,7 @@ public class circle {
 
     public int diameter() {
         int diameter = radiud + radiud;
-        System.out.println("Мой диаметр складывается из суммы радиусов и равняетс " + diameter + " Сантиметров" );
+        System.out.println("Мой диаметр складывается из суммы радиусов и равняет " + diameter + " Сантиметров" );
         return diameter;
     }
 
