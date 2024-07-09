@@ -22,7 +22,7 @@ public class circle {
     public double circleLength() {
         double circleLength = (radiud + radiud) * P_I;
         System.out.println("Моя длинна круга равняется " + circleLength + " Сантиметров");
-        System.out.println("Число PI постоянная и равна 3,14 в периоде");
+        System.out.println("Число PI постоянная и равна 3,14 в период");
         return circleLength;
     }
 
